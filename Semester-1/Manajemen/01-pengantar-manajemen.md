@@ -452,9 +452,10 @@ Weber → Bureaucracy
 > **Mayo = Faktor sosial manusia**  
 > **Sistem = Input → Proses → Output**
 
+
 ---
 
-# 🧭 Cara Berpikir Modul  
+# 🧭 Cara Berpikir   
 ## *“Dari Kekacauan Menuju Keteraturan”*
 
 > **Jangan melihat manajemen sebagai sekadar mata kuliah.**  
