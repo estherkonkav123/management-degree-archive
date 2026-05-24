@@ -24,26 +24,6 @@
 
 ---
 
-## 🗂️ Struktur Folder
-
-```bash
-📦 Manajemen
- ┣ 📂 Modul-01-Pengantar-Manajemen
- ┣ 📂 Modul-02-Lingkungan-Organisasi
- ┣ 📂 Modul-03-Perencanaan-dan-Perencanaan-Strategis
- ┣ 📂 Modul-04-Pengambilan-Keputusan
- ┣ 📂 Modul-05-Pengorganisasian
- ┣ 📂 Modul-06-Penyusunan-Staff
- ┣ 📂 Modul-07-Motivasi-Komunikasi-Konflik
- ┣ 📂 Modul-08-Kepemimpinan
- ┣ 📂 Modul-09-Pengendalian
- ┣ 📂 Modul-10-Kewirausahaan-Kreativitas-Inovasi
- ┣ 📂 Modul-11-Manajemen-UMKM
- ┗ 📂 Modul-12-Manajemen-Era-Digital
-```
-
----
-
 ## 🎯 Tujuan Repository
 
 - Mempermudah proses belajar & review materi
