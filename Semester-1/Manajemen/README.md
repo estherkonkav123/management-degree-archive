@@ -9,7 +9,7 @@
 
 | No | Materi | Status |
 |----|---------|--------|
-| 01 | Pengantar Manajemen | ⬜ |
+| 01 | Pengantar Manajemen | ✅ |
 | 02 | Lingkungan Organisasi | ⬜ |
 | 03 | Perencanaan & Perencanaan Strategis | ⬜ |
 | 04 | Pengambilan Keputusan | ⬜ |
