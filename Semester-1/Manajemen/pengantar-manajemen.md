@@ -223,7 +223,7 @@ Menggunakan model matematika seperti:
 
 ---
 
-## 📌 Poin Penting untuk UAS
+## 📌 Poin Penting 
 
 > Hal yang **wajib diingat sebelum ujian**:
 
@@ -233,46 +233,6 @@ Menggunakan model matematika seperti:
 - ✅ **Taylor vs Fayol**
 - ✅ Temuan utama **Studi Hawthorne**
 - ✅ **Sistem Terbuka & Pendekatan Kontingensi**
-
----
-
-## ❓ Prediksi Pertanyaan UAS
-
-<details>
-<summary><strong>Soal 1</strong></summary>
-
-### Mengapa manajer puncak lebih membutuhkan keterampilan konseptual?
-
-**Jawaban:**  
-Karena manajer puncak bertanggung jawab terhadap strategi dan arah organisasi secara keseluruhan, sehingga perlu memahami hubungan antar bagian organisasi serta lingkungan eksternal.
-
-</details>
-
-<details>
-<summary><strong>Soal 2</strong></summary>
-
-### Apa itu pendekatan situasional (*contingency approach*)?
-
-**Jawaban:**  
-Pendekatan yang menyatakan bahwa efektivitas manajemen tergantung pada situasi tertentu (*if-then approach*).
-
-**Contoh:**  
-Gaya kepemimpinan militer berbeda dengan universitas.
-
-</details>
-
-<details>
-<summary><strong>Soal 3</strong></summary>
-
-### Sebutkan tiga peran informasi menurut Henry Mintzberg!
-
-**Jawaban:**
-
-1. **Monitor** → mencari informasi  
-2. **Disseminator** → menyebarkan informasi  
-3. **Spokesman** → mewakili organisasi
-
-</details>
 
 ---
 
