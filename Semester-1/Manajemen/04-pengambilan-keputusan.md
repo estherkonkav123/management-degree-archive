@@ -1,820 +1,488 @@
-# 🧭 Cara Berpikir Modul 03  
-# *Perencanaan & Perencanaan Strategis*  
-### *“Managing uncertainty before uncertainty manages you.”*
-
-> **Manajemen bukan sekadar menghafal definisi.**  
-> Manajemen adalah memahami bagaimana mengendalikan **kapal besar di tengah samudra yang tidak menentu**.  
->
-> Ombak bisa berubah. Cuaca bisa buruk. Kompetitor bisa datang tiba-tiba.  
->
-> Karena itu, organisasi membutuhkan:
->
-> > **Peta, arah, cadangan, dan strategi.**
->
-> Itulah fungsi utama:
->
-> # 🎯 **Perencanaan (Planning)**
+# 📘 Modul 04 — Pengambilan Keputusan
+> *“Keberhasilan organisasi sering kali tidak ditentukan oleh seberapa keras orang bekerja, tetapi oleh seberapa tepat keputusan yang diambil.”*
 
 ---
 
-# 🧠 Filosofi Besar Modul
-
-Bayangkan sebuah kapal besar.
-
-Kalau kapten hanya berkata:
-
-> *“Yaudah jalan saja, nanti lihat situasi.”*
-
-Apa yang terjadi?
-
-```text
-Tidak ada arah
-↓
-Bahan bakar habis
-↓
-Awak bingung
-↓
-Kapal tersesat
-↓
-Misi gagal
-```
-
-Karena itu:
-
-> **Perencanaan muncul untuk mengurangi ketidakpastian.**
-
-Tetapi—
-
-> Dunia tidak pernah benar-benar bisa diprediksi.
-
-Maka:
-
-> **Rencana harus fleksibel, bukan kaku.**
+## 📌 Daftar Isi
+- [🎯 Tujuan Pembelajaran](#-tujuan-pembelajaran)
+- [🧠 Gambaran Besar Modul](#-gambaran-besar-modul)
+- [🧭 Cara Berpikir Modul](#-cara-berpikir-modul)
+- [1️⃣ Dasar Pengambilan Keputusan](#1️⃣-dasar-pengambilan-keputusan)
+- [2️⃣ Pendekatan Rasional vs Perilaku](#2️⃣-pendekatan-rasional-vs-perilaku)
+- [3️⃣ Bias dalam Pengambilan Keputusan](#3️⃣-bias-dalam-pengambilan-keputusan)
+- [4️⃣ Teknik & Alat Bantu Pengambilan Keputusan](#4️⃣-teknik--alat-bantu-pengambilan-keputusan)
+- [🔄 Alur Berpikir Modul](#-alur-berpikir-modul)
+- [⚠️ Poin yang Sering Keluar di UAS](#️-poin-yang-sering-keluar-di-uas)
+- [📝 Cheat Sheet UAS](#-cheat-sheet-uas)
+- [🔑 Kata Kunci Wajib Hafal](#-kata-kunci-wajib-hafal)
+- [❓Pertanyaan Pemahaman Diri](#-pertanyaan-pemahaman-diri)
 
 ---
 
-# 1️⃣ Mengapa Perencanaan Itu Ada?
-## *The Philosophy of Planning*
+# 🎯 Tujuan Pembelajaran
 
-## 💡 Logika Dasarnya
+Setelah mempelajari modul ini, kamu diharapkan mampu memahami:
 
-Bayangkan kamu mau liburan keluar kota.
-
-Tanpa planning:
-
-```text
-Tidak tahu naik apa
-Tidak booking hotel
-Tidak hitung biaya
-Tidak tahu tujuan wisata
-```
-
-Hasilnya?
-
-> ❌ uang habis  
-> ❌ waktu terbuang  
-> ❌ stres di jalan
+✅ Karakteristik pengambilan keputusan dalam organisasi  
+✅ Perbedaan pendekatan **rasional** dan **perilaku**  
+✅ Cara kerja **bias manusia** dalam mengambil keputusan  
+✅ Berbagai alat bantu statistik/matematika untuk keputusan manajerial  
+✅ Cara menjadi manajer yang lebih efektif melalui keputusan yang berkualitas
 
 ---
 
-## Dalam Organisasi Juga Sama
+# 🧠 Gambaran Besar Modul
 
-Manajer berpikir:
+## Modul Ini Membahas Apa?
 
-```text
-Apa yang mungkin terjadi?
-Apa risiko terbesarnya?
-Apa peluangnya?
-Bagaimana cara menang?
-```
+Modul ini membahas **jantung pekerjaan seorang manajer**, yaitu:
 
-Karena bisnis:
+> **Mengambil keputusan.**
 
-> **selalu penuh ketidakpastian.**
+Setiap hari manajer dihadapkan pada pilihan:
 
----
+- Haruskah merekrut pegawai baru?
+- Haruskah menaikkan harga?
+- Haruskah ekspansi ke kota lain?
+- Haruskah menutup cabang yang merugi?
 
-## 🎯 Fungsi Utama Planning
+Sebagian keputusan kecil dan rutin.
 
-Planning membantu organisasi:
-
-### 1. Menentukan arah
-
-Organisasi tahu:
-
-> mau ke mana.
+Sebagian lainnya dapat menentukan **hidup-matinya organisasi**.
 
 ---
 
-### 2. Mengurangi risiko
+## Kenapa Materi Ini Penting?
 
 Karena:
 
-> kemungkinan masalah sudah dipikirkan lebih dulu.
+> **Kualitas organisasi = kualitas keputusan manajernya**
+
+Keputusan yang tepat → organisasi berkembang 📈
+
+Keputusan yang buruk → organisasi bisa jatuh 📉
+
+Contohnya:
+
+### ❌ Yahoo
+Gagal mengakuisisi Google ketika masih kecil.
+
+### ❌ Nokia
+Terlambat beradaptasi terhadap smartphone.
+
+### ❌ IBM
+Pernah kehilangan arah karena keputusan strategis yang buruk.
 
 ---
 
-### 3. Membantu koordinasi
+## Hubungan Antar Topik
 
-Semua bagian organisasi:
+Modul ini terbagi menjadi dua dunia besar:
 
-> bergerak ke tujuan yang sama.
+### 1. Sisi Manusia 🧠
+Mempelajari bagaimana manusia berpikir saat mengambil keputusan:
 
----
+- Pendekatan Rasional
+- Pendekatan Perilaku
+- Bias psikologis
+- Intuisi
+- Keterbatasan manusia
 
-### 4. Menjadi dasar pengendalian
+### 2. Sisi Alat 📊
+Mempelajari alat bantu keputusan:
 
-Kalau tidak ada target:
+- Break-even analysis
+- Decision tree
+- Gantt Chart
+- PERT
+- Linear Programming
+- AI & teknologi keputusan
 
-> **apa yang mau dievaluasi?**
+Tujuannya:
 
----
-
-## ⚖️ Kontroversi Perencanaan
-
-### ✅ Sisi Positif
-
-Planning membuat:
-
-- lebih fokus
-- lebih terorganisir
-- risiko lebih kecil
-- koordinasi lebih baik
-
----
-
-### ❌ Sisi Negatif
-
-Planning juga bisa menjadi:
-
-> **jebakan.**
-
-Jika terlalu kaku:
-
-```text
-Lingkungan berubah
-↓
-Perusahaan tetap pakai rencana lama
-↓
-Tertinggal
-```
+> **Mengurangi kesalahan manusia melalui alat bantu objektif.**
 
 ---
 
-## 🚀 Agile Planning
+# 🧭 Cara Berpikir Modul
 
-Karena dunia berubah cepat:
+## Logika Dasarnya:
+### *“Keputusan adalah respons terhadap keadaan.”*
 
-Muncullah konsep:
-
-> **Agile Planning**
-
-Artinya:
-
-> **perencanaan yang fleksibel dan cepat beradaptasi.**
-
-Bukan:
-
-```text
-“Pokoknya harus sesuai rencana awal!”
-```
-
-Melainkan:
-
-```text
-“Kalau situasi berubah,
-strategi ikut berubah.”
-```
-
----
-
-# 2️⃣ Membedakan Rencana  
-# *Dari Mimpi → Menjadi Aksi Nyata*
-
-Gunakan analogi:
-
-# 🏠 *Membangun Rumah*
-
-Karena seluruh jenis planning sebenarnya:
-
-> hanya cara memecah mimpi besar menjadi langkah kecil.
-
----
-
-## 🌟 Misi (*Mission*)
-
-### Pertanyaan Besar:
-
-> **“Mengapa organisasi ini ada?”**
-
----
-
-### Analogi Rumah
-
-```text
-Mengapa rumah dibangun?
-```
-
-Jawaban:
-
-> Agar keluarga punya tempat tinggal nyaman.
-
----
-
-### Dalam Organisasi
-
-Contoh:
-
-```text
-Memberikan pendidikan berkualitas
-```
-
-atau
-
-```text
-Membantu masyarakat mendapat layanan kesehatan
-```
-
----
-
-## 🎯 Tujuan (*Goal*)
-
-Pertanyaan:
-
-> **“Apa hasil akhirnya?”**
-
----
-
-### Analogi Rumah
-
-```text
-Rumah selesai
-2 lantai
-dalam 1 tahun
-```
-
----
-
-### Intinya
-
-Tujuan harus:
-
-✅ jelas  
-✅ spesifik  
-✅ terukur
-
----
-
-# ⚠️ Kebijakan vs Aturan
-## *Jebakan UAS Paling Sering*
-
-Banyak mahasiswa tertukar.
-
-Padahal:
-
-> dua hal ini sangat berbeda.
-
----
-
-## 🟨 Kebijakan (*Policy*)
-
-Kebijakan adalah:
-
-> **panduan berpikir.**
-
-Masih ada ruang fleksibilitas.
-
----
-
-### Contoh
-
-```text
-“Kita mengutamakan bahan lokal.”
-```
-
-Artinya:
-
-boleh pilih supplier A atau B,
-
-asal:
-
-> tetap lokal.
-
----
-
-## 🟥 Aturan (*Rule*)
-
-Aturan adalah:
-
-> **harga mati.**
-
-Tidak bisa ditawar.
-
----
-
-### Contoh
-
-```text
-Dilarang merokok
-di area proyek.
-```
-
-Tidak ada negosiasi.
-
----
-
-## 🎯 Shortcut Mengingat
-
-```text
-Policy = arah berpikir
-
-Rule = tindakan spesifik
-```
-
----
-
-# ⚙️ Prosedur (*Procedure*)
-
-Jika aturan menjelaskan:
-
-> **apa yang harus dilakukan**
-
-Maka prosedur menjelaskan:
-
-> **urutan melakukannya.**
-
----
-
-### Analogi Rumah
-
-```text
-Fondasi
-↓
-Dinding
-↓
-Atap
-↓
-Finishing
-```
-
-Tidak mungkin:
-
-```text
-Pasang atap dulu
-baru fondasi
-```
-
----
-
-# 3️⃣ Perencanaan Strategis  
-# *The Grand Plan*
-
-## ❓Mengapa Konsep Ini Muncul?
-
-Dulu perusahaan cukup berpikir:
-
-```text
-Target minggu depan
-```
-
-Tapi sekarang?
-
-Persaingan:
-
-> makin brutal.
-
-Karena itu perusahaan mulai berpikir:
-
-```text
-5 tahun lagi kita mau jadi apa?
-10 tahun lagi kita ada di mana?
-```
-
-Inilah:
-
-# 🎯 **Strategic Planning**
-
----
-
-## Definisi
-
-Perencanaan strategis adalah:
-
-> **rencana jangka panjang organisasi untuk memenangkan persaingan.**
-
-Biasanya:
-
-```text
-> 5 tahun
-```
-
----
-
-## Cara Berpikir Strategis
-
-Bukan:
-
-```text
-“Minggu depan jual berapa?”
-```
-
-Tetapi:
-
-```text
-“Bagaimana perusahaan tetap hidup
-10 tahun ke depan?”
-```
-
----
-
-# 4️⃣ Analisis SWOT  
-## *Perusahaan Sedang “Curhat”*
-
-SWOT adalah alat:
-
-> untuk memahami kondisi organisasi.
-
----
-
-## Internal
-
-### 💪 Strength
-
-Apa kekuatan kita?
-
-Contoh:
-
-✅ brand kuat  
-✅ lokasi strategis
-
----
-
-### 🩹 Weakness
-
-Apa kelemahan kita?
-
-Contoh:
-
-❌ modal kecil  
-❌ SDM terbatas
-
----
-
-## Eksternal
-
-### 🌱 Opportunity
-
-Peluang apa di luar?
-
-Contoh:
-
-📈 tren digital naik
-
----
-
-### ⚠️ Threat
-
-Apa ancamannya?
-
-Contoh:
-
-⚔️ pesaing baru
-
----
-
-## 🎯 Inti SWOT
-
-Bukan sekadar daftar.
-
-Tapi:
-
-> **alat mengambil keputusan strategis.**
-
----
-
-## 📚 Contoh Logika SWOT
-
-```text
-Strength:
-Brand kuat
-
-Opportunity:
-Pasar online tumbuh
-
-Strategi:
-Ekspansi digital
-```
-
----
-
-# 5️⃣ Matriks BCG  
-## *Mengatur Banyak Bisnis Sekaligus*
-
-Bayangkan perusahaan punya:
-
-- banyak produk
-- banyak unit bisnis
-
-Pertanyaannya:
-
-> Mana yang harus didanai?
-
----
-
-## ⭐ Star (*Bintang*)
-
-```text
-Pertumbuhan tinggi
-Pangsa besar
-```
-
-Bagus.
-
-Tapi:
-
-> butuh modal besar.
-
----
-
-## 🐄 Cash Cow (*Sapi Perah*)
-
-```text
-Pertumbuhan rendah
-Pangsa besar
-```
-
-Ini:
-
-> mesin uang perusahaan.
-
-Keuntungan besar dipakai:
-
-> membiayai bisnis lain.
-
----
-
-## ❓ Question Mark
-
-```text
-Pertumbuhan tinggi
-Pangsa kecil
-```
-
-Masih abu-abu.
-
-Pertanyaannya:
-
-```text
-Dipertahankan?
-atau ditinggalkan?
-```
-
----
-
-## 🐶 Dog
-
-```text
-Pertumbuhan rendah
-Pangsa kecil
-```
-
-Prospeknya lemah.
-
----
-
-## 🔄 Siklus Umum
-
-```text
-Question Mark
-↓
-Star
-↓
-Cash Cow
-↓
-Dog
-```
-
----
-
-# 6️⃣ Strategi Generik Michael Porter  
-# *Bagaimana Cara Menang?*
-
-Menurut Porter:
-
-> Organisasi harus memilih cara menang.
-
-Tidak bisa:
-
-> mau semuanya sekaligus.
-
----
-
-## 1️⃣ Low Cost
-
-Strategi:
-
-> jadi yang paling murah.
-
-Contoh:
-
-diskon besar  
-biaya rendah
-
----
-
-## 2️⃣ Differentiation
-
-Strategi:
-
-> jadi paling unik.
-
-Contoh:
-
-Apple
-
-Karena:
-
-> desain & pengalaman berbeda.
-
----
-
-## 3️⃣ Focus
-
-Strategi:
-
-> melayani pasar kecil yang spesifik.
-
-Contoh:
-
-produk vegan premium.
-
----
-
-## 🎯 Intinya
-
-Jangan:
-
-```text
-murah
-unik
-premium
-massal
-semua sekaligus
-```
-
-Karena:
-
-> bisa kehilangan identitas bisnis.
-
----
-
-# 7️⃣ Balanced Scorecard (BSC)
-## *Kaplan & Norton*
-
-## ❓Mengapa Konsep Ini Muncul?
-
-Dulu:
-
-Manajer dianggap hebat jika:
-
-```text
-Profit tinggi
-```
-
-Tapi ternyata:
-
-profit tinggi bisa didapat dengan cara:
-
-❌ memeras karyawan  
-❌ mengecewakan pelanggan  
-❌ menurunkan kualitas
-
-Akhirnya:
-
-> perusahaan runtuh.
-
----
-
-## Solusinya?
-
-### Balanced Scorecard
-
-Melihat organisasi:
-
-> secara seimbang.
-
----
-
-## 4 Perspektif BSC
-
-### 💰 Keuangan
-
-> Pemegang saham puas tidak?
-
----
-
-### ❤️ Pelanggan
-
-> Pelanggan senang tidak?
-
----
-
-### ⚙️ Proses Internal
-
-> Operasional rapi tidak?
-
----
-
-### 📚 Pembelajaran & Pertumbuhan
-
-> SDM berkembang tidak?
-
----
-
-## 🔄 Hubungan Sebab–Akibat BSC
-
-```text
-Karyawan berkembang
-↓
-Proses kerja membaik
-↓
-Pelanggan puas
-↓
-Profit meningkat
-```
-
----
-
-# 8️⃣ Alfred Chandler  
-# *Structure Follows Strategy*
-
-Ada kalimat sakti:
-
-> **“Structure follows strategy.”**
-
-Artinya:
-
-> Struktur organisasi harus mengikuti strategi.
-
----
-
-## Logikanya
-
-Kalau dulu:
-
-```text
-jualan satu kota
-```
-
-Tim kecil cukup.
-
----
-
-Tapi kalau berubah jadi:
-
-```text
-jualan internasional
-```
-
-Maka:
-
-struktur juga harus berubah.
+Selalu ada **pemicu** sebelum keputusan muncul.
 
 Misalnya:
 
-✅ divisi negara baru  
-✅ manajer regional  
-✅ tim global
+| Situasi | Respons Manajer |
+|----------|----------------|
+| Penjualan turun | Cari penyebab |
+| Kompetitor muncul | Ubah strategi |
+| Teknologi baru hadir | Inovasi produk |
 
-Kalau tidak?
+Artinya:
 
-> strategi gagal dijalankan.
+> **Keputusan muncul karena ada masalah atau kesempatan.**
 
 ---
 
-# 🌟 Kesimpulan Besar Modul
+# 1️⃣ Dasar Pengambilan Keputusan
 
-Manajemen itu tentang:
+## 1. Masalah vs Kesempatan
 
-> **harmoni.**
+### 📖 Definisi
 
-```text
-Planning dibuat
-↓
-Tujuan disepakati (MBO)
-↓
-Kinerja dipantau (BSC)
-↓
-Strategi dijalankan
-↓
-Struktur disesuaikan
-↓
-Organisasi bergerak bersama
-```
+### Masalah
+Kondisi yang menyimpang dari keadaan yang diharapkan.
 
-Karena pada akhirnya:
+### Kesempatan
+Situasi yang memungkinkan organisasi melampaui target saat ini.
 
-> **Strategi hebat tanpa implementasi hanyalah tulisan di kertas.**
+---
+
+## 💡 Logika Konsep
+
+Mahasiswa sering fokus hanya pada masalah.
+
+Padahal:
+
+> Manajer hebat bukan hanya pemadam kebakaran 🔥
+
+Tetapi juga:
+
+> Pemburu peluang 🚀
+
+---
+
+### Contoh Berpikir
+
+#### Kasus 1 — Masalah
+Penjualan turun 20%.
+
+Manajer bertanya:
+
+> “Apa penyebabnya?”
+
+---
+
+#### Kasus 2 — Kesempatan
+Konsumen mulai hidup sehat.
+
+Manajer berpikir:
+
+> “Bagaimana kalau kita buat produk organik?”
+
+---
+
+### Hubungan Sebab-Akibat
+
+Masalah sering melahirkan kesempatan.
+
+Contoh:
+
+Keluhan pelanggan tentang kemasan sulit dibuka
+
+⬇
+
+Perusahaan redesign kemasan
+
+⬇
+
+Produk lebih disukai pasar
+
+⬇
+
+Penjualan meningkat
+
+---
+
+## 2. Keputusan Terprogram vs Tidak Terprogram
+
+### A. Keputusan Terprogram
+
+### Definisi
+Keputusan yang:
+
+- rutin
+- berulang
+- memiliki SOP
+
+Karena sering terjadi, organisasi membuat:
+
+- aturan
+- prosedur
+- kebijakan otomatis
+
+### Contoh
+Stok tersisa 100 unit
+
+⬇
+
+Sistem otomatis reorder barang
+
+Manajer tidak perlu berpikir panjang.
+
+---
+
+### B. Keputusan Tidak Terprogram
+
+### Definisi
+Keputusan yang:
+
+- jarang terjadi
+- unik
+- tidak punya SOP
+
+Biasanya:
+
+- kompleks
+- strategis
+- penuh risiko
+
+### Contoh
+- merger perusahaan
+- buka cabang internasional
+- peluncuran produk baru
+
+---
+
+## ⚠️ Kesalahan Umum
+
+Banyak mahasiswa tertukar.
+
+### Rumus gampangnya:
+
+**Terprogram = SOP**
+**Tidak Terprogram = Strategi**
+
+---
+
+# 2️⃣ Pendekatan Rasional vs Perilaku
+
+## A. Pendekatan Rasional
+
+### Filosofinya:
+> “Manusia berpikir logis.”
+
+Asumsinya:
+
+Manajer:
+- punya informasi lengkap
+- objektif
+- mampu menghitung semua risiko
+
+---
+
+## Langkah-Langkah Pendekatan Rasional
+
+### 1. Meneliti Situasi
+Cari akar masalah.
+
+### 2. Mengembangkan Alternatif
+Cari banyak pilihan solusi.
+
+### 3. Mengevaluasi Alternatif
+Bandingkan biaya dan manfaat.
+
+### 4. Memilih Alternatif Terbaik
+Ambil keputusan optimal.
+
+### 5. Implementasi
+Laksanakan keputusan.
+
+### 6. Follow-up
+Evaluasi hasilnya.
+
+---
+
+## ⚠️ Realita di Dunia Nyata
+
+Masalahnya:
+
+> Manusia tidak sesempurna itu.
+
+Sering kali:
+
+- data kurang
+- waktu terbatas
+- emosi ikut campur
+- tekanan tinggi
+
+Maka lahirlah:
+
+# B. Pendekatan Perilaku
+
+---
+
+## Herbert Simon:
+### Bounded Rationality
+
+### Definisi
+
+Manusia punya keterbatasan berpikir.
+
+Karena:
+
+- informasi tidak lengkap
+- waktu sempit
+- kapasitas otak terbatas
+
+Akibatnya:
+
+Manusia tidak mencari keputusan terbaik.
+
+Tetapi:
+
+> keputusan yang cukup memuaskan.
+
+---
+
+## Satisficing
+
+Gabungan kata:
+
+**Satisfy + Suffice**
+
+Artinya:
+
+> memilih opsi pertama yang cukup baik.
+
+Bukan terbaik.
+
+---
+
+### Contoh
+
+Mau beli laptop.
+
+Idealnya:
+
+Bandingkan 100 laptop.
+
+Realitanya:
+
+Cari 5 laptop
+
+Ketemu satu yang cocok
+
+> “Ya udah ini aja.”
+
+Itulah **satisficing**.
+
+---
+
+# 3️⃣ Bias dalam Pengambilan Keputusan
+
+## 1. Heuristic
+
+### Definisi
+Aturan cepat (*shortcut mental*) untuk menyederhanakan keputusan.
+
+Masalahnya:
+
+Shortcut sering menghasilkan bias.
+
+---
+
+## A. Availability Bias
+
+### Logika:
+Yang paling mudah diingat dianggap paling benar.
+
+Contoh:
+
+Baru lihat berita pesawat jatuh.
+
+Lalu merasa:
+
+> naik pesawat sangat berbahaya
+
+Padahal statistiknya tetap aman.
+
+---
+
+## B. Anchoring Bias
+
+### Logika:
+Terjebak pada angka pertama.
+
+Contoh:
+
+Harga awal Rp10 juta.
+
+Diskon jadi Rp7 juta.
+
+Padahal nilai wajarnya mungkin cuma Rp5 juta.
+
+---
+
+## C. Stereotype Bias
+
+Menilai berdasarkan generalisasi.
+
+Contoh:
+
+> “Anak muda pasti kurang pengalaman.”
+
+Padahal belum tentu.
+
+---
+
+## Prospect Theory & Loss Aversion
+
+### Inti Teori:
+
+Kerugian terasa jauh lebih menyakitkan daripada keuntungan yang setara.
+
+---
+
+### Contoh
+
+Kehilangan Rp1 juta 😭
+
+lebih sakit dibanding
+
+Mendapat Rp1 juta 😄
+
+---
+
+### Dampak ke Manajer
+
+Manajer sering:
+
+❌ mempertahankan proyek gagal  
+❌ takut mengakui kesalahan
+
+karena sudah terlalu banyak investasi.
+
+Ini disebut:
+
+# Eskalasi Komitmen
+
+> Tetap lanjut walau jelas-jelas rugi.
+
+---
+
+# 4️⃣ Teknik & Alat Bantu Pengambilan Keputusan
+
+## 1. Break-even Analysis
+
+### Fungsi
+Menentukan titik impas.
+
+Yaitu:
+
+> kondisi untung = nol
+
+Tidak untung.
+
+Tidak rugi.
+
+### Rumus
+
+```math
+Break-even = 
+\frac{Biaya Tetap}
+{Harga Jual - Biaya Variabel}
 
 ---
 
