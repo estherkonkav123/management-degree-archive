@@ -1,10 +1,14 @@
-# 📘 Modul 02 — Lingkungan Organisasi
+# 📒 Modul 02 — Lingkungan Organisasi
 
 > *"Organisasi tidak hidup di ruang hampa. Ia hidup di tengah perubahan, persaingan, teknologi, hukum, dan masyarakat."*
 
+![Management](https://img.shields.io/badge/Course-Manajemen-blue?style=for-the-badge)
+![Semester](https://img.shields.io/badge/Semester-1-green?style=for-the-badge)
+![Module](https://img.shields.io/badge/Module-01-orange?style=for-the-badge)
+
 ---
 
-# 🎯 Tujuan Pembelajaran
+# 📝 Tujuan Pembelajaran
 
 Setelah mempelajari modul ini, kita diharapkan mampu memahami:
 
@@ -16,7 +20,7 @@ Setelah mempelajari modul ini, kita diharapkan mampu memahami:
 
 ---
 
-# 🧠 Gambaran Besar Modul
+# 📝 Gambaran Besar Modul
 
 ## Modul ini membahas apa?
 
@@ -52,7 +56,7 @@ Contoh nyata:
 
 ---
 
-# 🌍 Cara Berpikir Modul
+# 📝 Cara Berpikir Modul
 
 ## *“Organisasi adalah Sistem Terbuka”*
 
@@ -113,11 +117,11 @@ Gagal bertahan
 
 ---
 
-# 📌 Konsep Inti
+# 📝 Konsep Inti
 
 # 1️⃣ Lingkungan Organisasi
 
-## 📖 Definisi
+## 🩷 Definisi
 
 Lingkungan organisasi adalah:
 
@@ -125,7 +129,7 @@ Lingkungan organisasi adalah:
 
 ---
 
-## 💡 Inti Konsep
+## 🩷 Inti Konsep
 
 Organisasi merupakan:
 
@@ -147,7 +151,7 @@ Lingkungan menerima OUTPUT
 
 ---
 
-## 🧠 Contoh Sederhana
+## 🩷 Contoh Sederhana
 
 Pemerintah membuat aturan limbah baru.
 
@@ -165,7 +169,7 @@ Kalau tidak:
 
 ---
 
-## ⭐ Kenapa Ini Penting?
+## 🩷 Kenapa Ini Penting?
 
 Karena:
 
@@ -185,7 +189,7 @@ Bangkrut
 
 # 2️⃣ Lingkungan Langsung (Stakeholder)
 
-## 📖 Definisi
+## 🩷 Definisi
 
 Stakeholder adalah:
 
@@ -200,7 +204,7 @@ Mereka bisa memengaruhi:
 
 ---
 
-## 🔥 Dibagi Menjadi 2
+## 🩷 Dibagi Menjadi 2
 
 ## A. Internal Environment
 
@@ -229,7 +233,7 @@ Pihak luar yang berdampak langsung.
 
 ---
 
-## ⚠️ Hubungan Sebab–Akibat
+## 🩷 Hubungan Sebab–Akibat
 
 Masalah stakeholder sering bertabrakan.
 
@@ -253,7 +257,7 @@ Inilah alasan:
 
 ---
 
-## 🧠 Contoh Nyata
+## 🩷 Contoh Nyata
 
 Jika pemasok menaikkan harga bahan baku:
 
@@ -273,7 +277,7 @@ Dampaknya bisa langsung terjadi hari itu juga.
 
 ## *General Environment*
 
-## 📖 Definisi
+## 🩷 Definisi
 
 Lingkungan tidak langsung adalah:
 
@@ -370,7 +374,7 @@ Toko fisik terancam
 
 ## *James D. Thomson*
 
-## 📖 Definisi
+## 🩷 Definisi
 
 Model untuk mengukur:
 
@@ -428,7 +432,7 @@ Contoh:
 
 ---
 
-## ⚠️ Kesalahan Umum
+## 🩷 Kesalahan Umum
 
 Mahasiswa sering mengira:
 
@@ -455,7 +459,7 @@ Maka:
 
 ## *Michael Porter*
 
-## 📖 Definisi
+## 🩷 Definisi
 
 Kerangka untuk menilai:
 
@@ -524,7 +528,7 @@ Semakin sengit:
 
 ---
 
-## 🎯 Inti Porter
+## 🩷 Inti Porter
 
 Jika:
 
@@ -544,7 +548,7 @@ Karena:
 
 # 6️⃣ Etika Bisnis & CSR
 
-## 📖 Definisi
+## 🩷 Definisi
 
 ### Etika Bisnis
 
@@ -608,7 +612,7 @@ Aktif membantu masyarakat.
 
 ---
 
-## ⚠️ Pro & Kontra CSR
+## 🩷 Pro & Kontra CSR
 
 ### Pro
 
@@ -632,7 +636,7 @@ Karena tugas perusahaan:
 
 # 7️⃣ Globalisasi & MNC
 
-## 📖 Definisi
+## 🩷 Definisi
 
 ### Globalisasi
 
@@ -691,7 +695,7 @@ Ke negara paling efisien.
 
 ---
 
-# 🔄 Alur Berpikir Modul
+# 📝 Alur Berpikir Modul
 
 ```text
 Organisasi adalah sistem terbuka
@@ -709,9 +713,9 @@ Siap bersaing global
 
 ---
 
-# ⚠️ Poin Penting
+# 📝 Poin Penting
 
-## 🔥 Wajib Hafal
+## 🩷 Wajib Hafal
 
 * Lingkungan langsung vs tidak langsung
 * 5 Forces Porter
@@ -739,7 +743,7 @@ Hot Money = modal asing cepat keluar masuk
 
 ---
 
-# 🔑 Kata Kunci 
+# 📝 Kata Kunci 
 
 | Istilah               | Makna                     |
 | --------------------- | ------------------------- |
@@ -752,7 +756,7 @@ Hot Money = modal asing cepat keluar masuk
 
 ---
 
-# ❓ Pertanyaan Pemahaman Diri
+# 📝 Pertanyaan Pemahaman Diri
 
 1. Apa beda lingkungan internal dan eksternal?
 2. Mengapa Nokia gagal beradaptasi?
@@ -767,7 +771,7 @@ Hot Money = modal asing cepat keluar masuk
 
 ---
 
-# 🎯 Last Minute Review (1 Menit Sebelum UAS)
+# 📝 Last Minute Review 
 
 > **Lingkungan langsung = stakeholder**
 > **Lingkungan tidak langsung = sosial, ekonomi, politik, teknologi**
@@ -777,7 +781,7 @@ Hot Money = modal asing cepat keluar masuk
 
 ---
 
-# 🌍 Cara Berpikir Modul 02  
+# 📝 Cara Berpikir Modul 02  
 # *Lingkungan Organisasi — “Bagaimana Organisasi Bisa Bertahan Hidup?”*
 
 > **Bayangkan organisasi seperti manusia.**  
@@ -794,7 +798,7 @@ Modul ini ingin mengajari kita:
 
 ---
 
-# 🧠 Big Picture Modul
+# 📝 Big Picture Modul
 
 Organisasi tidak pernah berdiri sendiri.
 
@@ -842,7 +846,7 @@ Contoh nyata:
 # 1️⃣ Logika Dasar  
 # Organisasi adalah **“Sistem Terbuka”**
 
-## ❓Mengapa teori ini muncul?
+## 📝 Mengapa teori ini muncul?
 
 Dulu banyak orang berpikir:
 
@@ -862,7 +866,7 @@ Banyak perusahaan besar runtuh **bukan karena masalah internal**, melainkan kare
 
 ---
 
-## 🍜 Analogi Warung Makan
+## 🩷 Analogi Warung Makan
 
 Bayangkan:
 
@@ -896,7 +900,7 @@ Hasilnya:
 
 ---
 
-## 💡 Cara Berpikir Modul
+## 🩷 Cara Berpikir Modul
 
 Organisasi itu seperti **spons**.
 
@@ -933,7 +937,7 @@ Kembali ke masyarakat:
 
 ---
 
-## 🔄 Hubungan Timbal Balik
+## 🩷 Hubungan Timbal Balik
 
 ```mermaid
 flowchart LR
@@ -949,7 +953,7 @@ Artinya:
 
 ---
 
-## ⚠️ Kesalahan Umum Mahasiswa
+## 🩷 Kesalahan Umum Mahasiswa
 
 Banyak yang berpikir:
 
@@ -986,7 +990,7 @@ Yaitu pihak yang kalau mereka bermasalah:
 
 ---
 
-## 🎯 Siapa Saja Stakeholder?
+## 🩷 Siapa Saja Stakeholder?
 
 | Stakeholder | Pengaruh |
 |---|---|
@@ -999,7 +1003,7 @@ Yaitu pihak yang kalau mereka bermasalah:
 
 ---
 
-## 🔥 Logika Sebab–Akibat
+## 🩷 Logika Sebab–Akibat
 
 ### Contoh 1 — Konsumen Kuat
 
@@ -1131,7 +1135,7 @@ Ini faktor:
 
 ---
 
-## 📮 Analogi PT Pos Indonesia
+## 🩷 Analogi PT Pos Indonesia
 
 Internet:
 
@@ -1158,7 +1162,7 @@ Artinya:
 # 3️⃣ Logika Ketidakpastian  
 # *Model James D. Thomson*
 
-## ❓Mengapa teori ini penting?
+## 🩷 Mengapa teori ini penting?
 
 Karena manajer sering bingung:
 
@@ -1190,7 +1194,7 @@ Thomson membuat:
 
 ---
 
-## 📌 Cara Membaca Lingkungan
+## 🩷 Cara Membaca Lingkungan
 
 ### 🟢 Ketidakpastian Rendah
 
@@ -1226,7 +1230,7 @@ Karena:
 
 ---
 
-## 🎯 Shortcut Jawaban UAS
+## 🩷 Shortcut 
 
 Jika soal menyebut:
 
@@ -1244,7 +1248,7 @@ Jawaban:
 # 4️⃣ Michael Porter — 5 Forces  
 # *“Bisnis = Rebutan Keuntungan”*
 
-## 💡 Logika Besarnya
+## 🩷 Logika Besarnya
 
 Porter ingin bilang:
 
@@ -1371,7 +1375,7 @@ Akibat:
 
 ---
 
-## 🎯 Inti Porter
+## 🩷 Inti Porter
 
 Jika:
 
@@ -1392,7 +1396,7 @@ Karena:
 # 5️⃣ Etika Bisnis & CSR  
 # *“Mengapa Perusahaan Harus Jadi Orang Baik?”*
 
-## ❓Mengapa teori ini muncul?
+## 🩷 Mengapa teori ini muncul?
 
 Karena dulu:
 
@@ -1412,7 +1416,7 @@ Untung besar
 
 ---
 
-## 🌱 Cara Berpikir Etika
+## 🩷 Cara Berpikir Etika
 
 Logikanya sederhana:
 
@@ -1435,7 +1439,7 @@ Artinya:
 
 ---
 
-## ⚖️ Debat Besar CSR
+## 🩷 Debat Besar CSR
 
 ### ❌ Milton Friedman (Kontra)
 
@@ -1470,7 +1474,7 @@ Disebut:
 # 6️⃣ Globalisasi & MNC  
 # *“Dunia Tanpa Sekat”*
 
-## ❓Mengapa teori ini muncul?
+## 🩷 Mengapa teori ini muncul?
 
 Dulu ada teori:
 
@@ -1499,7 +1503,7 @@ Tidak mobile
 
 ---
 
-## 🌍 Cara Berpikir MNC
+## 🩷 Cara Berpikir MNC
 
 Sekarang dunia berubah.
 
@@ -1523,7 +1527,7 @@ Pasar → Jerman
 
 ---
 
-## 🎯 Intinya
+## 🩷 Intinya
 
 Manajer global berpikir:
 
@@ -1535,7 +1539,7 @@ Bukan:
 
 ---
 
-# 🌟 Pesan Inti Modul
+# 📝 Pesan Inti Modul
 
 > **Manajemen bukan ilmu pasti seperti Matematika.**
 
@@ -1557,7 +1561,7 @@ Tugas manajer:
 
 ---
 
-# 🎓 Last Minute Review (1 Menit Sebelum UAS)
+# 🩷 Last Minute Review
 
 ```text
 Organisasi = Sistem terbuka
