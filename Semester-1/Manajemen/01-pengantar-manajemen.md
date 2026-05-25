@@ -1,5 +1,5 @@
 
-# 📘 Modul 01 — Pengantar Manajemen
+# 📒 Modul 01 — Pengantar Manajemen
 
 > *“Manajemen adalah seni menyelesaikan pekerjaan melalui orang lain secara efektif dan efisien.”*
 
@@ -9,7 +9,7 @@
 
 ---
 
-# 🎯 Tujuan Pembelajaran
+# 📝 Tujuan Pembelajaran
 
 Setelah mempelajari modul ini, kita diharapkan mampu memahami:
 
@@ -21,9 +21,9 @@ Setelah mempelajari modul ini, kita diharapkan mampu memahami:
 
 ---
 
-# 🧠 Gambaran Besar Modul
+# 📝 Gambaran Besar Modul
 
-## 📌 Modul ini membahas apa?
+## 🩷 Modul ini membahas apa?
 
 Modul ini adalah **pondasi utama ilmu manajemen**.
 
@@ -47,7 +47,7 @@ Mulai dari:
 
 ---
 
-## ❓ Kenapa materi ini penting?
+## 🩷 Kenapa materi ini penting?
 
 Tanpa manajemen:
 
@@ -67,7 +67,7 @@ Tanpa manajemen yang baik → organisasi akan gagal.
 
 ---
 
-## 🔗 Hubungan Antar Topik
+## 🩷 Hubungan Antar Topik
 
 Materi ini memiliki urutan logika seperti berikut:
 
@@ -87,19 +87,19 @@ Adaptasi terhadap tantangan modern
 
 ---
 
-# 📌 Konsep Inti
+# 📝 Konsep Inti
 
 ---
 
 # 1. Organisasi
 
-## 📖 Definisi
+## 🩷 Definisi
 
 > Organisasi adalah sekumpulan orang yang bekerja sama secara terkoordinasi untuk mencapai tujuan tertentu.
 
 ---
 
-## 💡 Inti Konsep
+## 🩷 Inti Konsep
 
 Agar disebut **organisasi**, harus ada:
 
@@ -113,7 +113,7 @@ Tanpa salah satu unsur tersebut → **bukan organisasi**.
 
 ---
 
-## ⭐ Kenapa Penting?
+## 🩷 Kenapa Penting?
 
 Organisasi membuat tujuan besar dapat dicapai dengan:
 
@@ -125,7 +125,7 @@ Organisasi juga menjaga ilmu & budaya agar diwariskan lintas generasi.
 
 ---
 
-## 🔗 Hubungan dengan Konsep Lain
+## 🩷 Hubungan dengan Konsep Lain
 
 **Manajer bekerja di dalam organisasi.**
 
@@ -135,7 +135,7 @@ Tanpa organisasi:
 
 ---
 
-## 🧠 Contoh Sederhana
+## 🩷 Contoh Sederhana
 
 ### ✅ Organisasi
 Koperasi pensiunan yang dibentuk untuk mencari keuntungan bersama.
@@ -145,7 +145,7 @@ Kerumunan demonstran yang sudah kehilangan koordinasi dan tujuan.
 
 ---
 
-## ⚠️ Kesalahan Umum
+## 🩷 Kesalahan Umum
 
 > **Mitos:** Banyak orang = organisasi
 
@@ -162,7 +162,7 @@ Kalau tidak → hanya **kerumunan**.
 
 # 2. Efektivitas vs Efisiensi
 
-## 📖 Definisi
+## 🩷 Definisi
 
 | Konsep | Makna |
 |--------|--------|
@@ -171,7 +171,7 @@ Kalau tidak → hanya **kerumunan**.
 
 ---
 
-## 💡 Penjelasan Konsep
+## 🩷 Penjelasan Konsep
 
 ### Efisiensi
 Fokus pada:
@@ -201,7 +201,7 @@ Organisasi bisa efisien tapi tidak efektif.
 
 ---
 
-## 🧠 Contoh Sederhana
+## 🩷 Contoh Sederhana
 
 ### Kasus Pabrik Mesin Ketik
 
@@ -221,7 +221,7 @@ Efektif ❌
 
 ---
 
-## 🎯 Kenapa Penting?
+## 🩷 Kenapa Penting?
 
 Manajer dinilai dari:
 
@@ -238,7 +238,7 @@ Baru cari cara termurah membuatnya (efisien)
 
 ---
 
-## ⚠️ Penting!
+## 🩷 Penting!
 
 **Sering tertukar!**
 
@@ -252,7 +252,7 @@ Baru cari cara termurah membuatnya (efisien)
 
 # 3. Fungsi Manajemen
 
-## 📖 Definisi
+## 🩷 Definisi
 
 Manajemen memiliki **4 fungsi utama**:
 
@@ -314,7 +314,7 @@ Mengecek laporan keuangan.
 
 ---
 
-## ⚠️ Kesalahan Umum
+## 🩷 Kesalahan Umum
 
 Mahasiswa sering mengira:
 
@@ -349,7 +349,7 @@ Manajer memiliki **10 peran** yang dibagi menjadi:
 
 ---
 
-## 🧠 Contoh Praktis
+## 🩷 Contoh Praktis
 
 | Situasi | Peran |
 |---------|------|
@@ -360,7 +360,7 @@ Manajer memiliki **10 peran** yang dibagi menjadi:
 
 ---
 
-# 🔄 Alur Berpikir Modul
+# 📝 Alur Berpikir Modul
 
 ```mermaid
 flowchart TD
@@ -374,9 +374,9 @@ F --> G[Tantangan Modern]
 
 ---
 
-# ⚠️ Poin Penting
+# 📝 Poin Penting
 
-## 🔥 Wajib Hafal
+## 🩷 Wajib Hafal
 
 | Topik | Hal Penting |
 |-------|-------------|
@@ -415,7 +415,7 @@ Weber → Bureaucracy
 
 ---
 
-# 🔑 Kata Kunci 
+# 📝 Kata Kunci 
 
 | Istilah | Makna |
 |---------|------|
@@ -427,7 +427,7 @@ Weber → Bureaucracy
 
 ---
 
-# ❓Pertanyaan Pemahaman Diri
+# 📝 Pertanyaan Pemahaman Diri
 
 1. Mengapa manajemen disebut ilmu dan seni?  
 2. Apa beda organisasi profit & non-profit?  
@@ -442,7 +442,7 @@ Weber → Bureaucracy
 
 ---
 
-## 🎯 Last Minute Review 
+## 🩷 Last Minute Review 
 
 > **Efektif = tujuan benar**  
 > **Efisien = cara hemat**  
@@ -455,7 +455,7 @@ Weber → Bureaucracy
 
 ---
 
-# 🧭 Cara Berpikir   
+# 📝 Cara Berpikir   
 ## *“Dari Kekacauan Menuju Keteraturan”*
 
 > **Jangan melihat manajemen sebagai sekadar mata kuliah.**  
@@ -463,7 +463,7 @@ Weber → Bureaucracy
 
 ---
 
-## 🌍 Big Picture: Kenapa Manajemen Itu Ada?
+## 🩷 Big Picture: Kenapa Manajemen Itu Ada?
 
 Manusia memiliki keterbatasan:
 
@@ -500,7 +500,7 @@ Tujuannya sederhana:
 
 ---
 
-## 🔄 Logika Besar Modul
+## 🩷 Logika Besar Modul
 
 ```mermaid
 flowchart TD
@@ -515,7 +515,7 @@ E --> F[Tujuan Tercapai]
 
 # 1️⃣ Organisasi — Mengapa Harus Ada Wadah?
 
-## 🛒 Analogi Pasar
+## 🩷 Analogi Pasar
 
 Bayangkan ada sekumpulan orang di pasar.
 
@@ -548,7 +548,7 @@ Hasil:
 
 ---
 
-## 📌 Logika Konsep
+## 🩷 Logika Konsep
 
 Organisasi muncul karena manusia ingin hasil yang:
 
@@ -571,7 +571,7 @@ Organisasi
 
 ---
 
-## ⚠️ Hubungan Sebab–Akibat
+## 🩷 Hubungan Sebab–Akibat
 
 Tanpa koordinasi:
 
@@ -603,7 +603,7 @@ Mari pahami dengan logika sederhana.
 
 ---
 
-## 🎯 Efektivitas (*Doing the Right Things*)
+## 🩷 Efektivitas (*Doing the Right Things*)
 
 ### Fokus:
 
@@ -642,7 +642,7 @@ Tapi...
 
 ---
 
-## ⚙️ Efisiensi (*Doing Things Right*)
+## 🩷 Efisiensi (*Doing Things Right*)
 
 ### Fokus:
 
@@ -660,7 +660,7 @@ Targetnya:
 
 ---
 
-## 🔥 Hubungan Sebab–Akibat dalam Bisnis
+## 🩷 Hubungan Sebab–Akibat dalam Bisnis
 
 Ini bagian paling penting:
 
@@ -709,7 +709,7 @@ Artinya:
 
 ---
 
-## 🧠 Shortcut Hafalan UAS
+## 🩷 Shortcut 
 
 | Konsep | Fokus |
 |--------|-------|
@@ -738,7 +738,7 @@ Jawabannya:
 
 ---
 
-## ⚙️ Teori Manajemen Ilmiah — Taylor
+## 🩷 Teori Manajemen Ilmiah — Taylor
 
 ### Masalah Zaman Itu
 
@@ -778,7 +778,7 @@ Produktivitas naik 📈
 
 ---
 
-## 👥 Hawthorne — Aliran Hubungan Manusiawi
+## 🩷 Hawthorne — Aliran Hubungan Manusiawi
 
 ### Masalah Baru
 
@@ -827,7 +827,7 @@ Kesimpulan:
 
 ---
 
-## 🎯 Pendekatan Situasional (*Contingency*)
+## 🩷 Pendekatan Situasional (*Contingency*)
 
 Lalu muncul kesadaran besar:
 
@@ -878,7 +878,7 @@ Semakin naik jabatan:
 
 ---
 
-## 👨‍🍳 Supervisor (Lini Bawah)
+## 🩷 Supervisor (Lini Bawah)
 
 Harus kuat di:
 
@@ -896,7 +896,7 @@ Karena mereka mengawasi pekerjaan operasional.
 
 ---
 
-## 👔 Middle Manager
+## 🩷 Middle Manager
 
 Harus kuat di:
 
@@ -908,7 +908,7 @@ Karena tugasnya:
 
 ---
 
-## 👑 CEO / Top Management
+## 🩷 CEO / Top Management
 
 Harus kuat di:
 
@@ -932,7 +932,7 @@ Fokusnya:
 
 ---
 
-# 💡 Pesan Inti Modul
+# 🩷 Pesan Inti Modul
 
 > **Manajemen adalah Ilmu sekaligus Seni.**
 
@@ -965,7 +965,7 @@ Tidak selalu bisa diprediksi
 
 ---
 
-# 🎓 Tips Belajar Anti-Hafalan
+# 📝 Tips Belajar Anti-Hafalan
 
 Saat membaca fungsi manajemen:
 
@@ -991,7 +991,7 @@ Tanya:
 
 ---
 
-## 🌍 Kalimat Penutup yang Wajib Diingat
+## 📝 Kalimat Penutup yang Wajib Diingat
 
 > Kita tidak sedang menghafal isi buku.
 
